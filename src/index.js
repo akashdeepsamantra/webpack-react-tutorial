@@ -1,3 +1,3 @@
-import FormContainer from "./js/components/container/FormContainer.jsx";
+import Label from "./js/components/Label.jsx";
 
-export { FormContainer };
+export { Label };
