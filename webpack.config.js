@@ -1,4 +1,8 @@
 module.exports = {
+    output: {
+      libraryTarget: "umd",
+      library: "webpack-react-tutorial"
+    },
     module: {
       rules: [
         {
